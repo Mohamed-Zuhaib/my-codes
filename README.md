@@ -1,2 +1,2 @@
 # my-codes
-codes that i will write
+the codes i will myself feeling happy
